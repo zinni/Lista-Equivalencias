@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1649017217 source:d:\faculdade\projetos\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1649018326 source:d:\faculdade\projetos\lista\entidade.c
+	"entidade.h"
+
+1649018326 d:\faculdade\projetos\lista\entidade.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+
+1649018965 source:c:\users\alice\documents\github\lista-equivalencias\main.c
+	"entidade.h"
+
+1649018326 c:\users\alice\documents\github\lista-equivalencias\entidade.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+
+1649019537 source:c:\users\alice\documents\github\lista-equivalencias\lista.c
+	"lista.h"
+
+1649019537 c:\users\alice\documents\github\lista-equivalencias\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+
